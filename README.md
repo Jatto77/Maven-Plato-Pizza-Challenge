@@ -9,7 +9,7 @@ They reached us hoping we can analyze the data and put together a report to help
 -To drive more sales and 
 -To work more efficiently.
 
-# Here are some questions that they would like to be able to answered:
+# Here are some questions that they would like to have answered:
 
 - What days and times do they tend to be busiest?
 - How many pizzas are they making during peak periods?
