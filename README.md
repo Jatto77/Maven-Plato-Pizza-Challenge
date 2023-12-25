@@ -1,6 +1,9 @@
 # Maven-Plato-Pizza-Challenge
 This report uses transactional data from a pizza shop to identify opportunities to drive more sales and work efficiently
 
+## Link to view report
+[View dashboard](https://drive.google.com/file/d/1g0EwlN57V9Jl-jWp-R8zKJhqYLfx8AxV/view?usp=sharing)
+
 # Challenge
 Plato pizza have been collecting transactional data for the past year, but really haven't been able to put it to good use. 
 
